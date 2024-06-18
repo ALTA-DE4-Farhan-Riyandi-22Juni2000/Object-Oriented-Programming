@@ -1,0 +1,28 @@
+Buatlah code dengan pendekatan Object Oriented Programming (OOP)!
+
+Easy Challenge (Menghitung Luas dan Keliling)
+Buatlah sebuah program untuk menghitung luas dan
+keliling bangun datar (persegi, segitiga, persegi panjang).
+Input angka berada pada fungsi utama dan fungsi operasi diletakkan
+terpisah dengan fungsi utama. 
+
+Input : 
+	Luas
+	Persegi (4)
+	Segitiga (3,4)
+	Persegi Panjang (7,8)
+
+	Keliling
+	Persegi (4)
+	Segitiga (3,4)
+	Persegi Panjang (7,8)
+
+Output : 
+	Luas
+	Persegi : 16
+	Segitiga : 6
+	Persegi Panjang : 56
+	Keliling
+	Persegi : 16
+	Segitiga : 12
+	Persegi Panjang : 30

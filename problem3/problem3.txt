@@ -1,0 +1,18 @@
+Buatlah code dengan pendekatan Object Oriented Programming (OOP)!
+
+Medium Challenge (Kalkulator)
+
+Buatlah sebuah program kalkulator sederhana dengan fungsi penjumlahan, pengurangan, perkalian, pembagian.
+Input angka berada pada fungsi utama dan fungsi operasi diletakkan terpisah dengan fungsi utama.
+
+Input : 
+	Penjumlahan (3,4) 
+	Pengurangan (15,4)
+    Perkalian (10,10)
+	Pembagian (12,3)
+
+Output :
+	Penjumlahan : 7
+	Pengurangan : 11
+	Perkalian : 100
+	Pembagian : 4

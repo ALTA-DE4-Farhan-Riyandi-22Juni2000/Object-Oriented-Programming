@@ -1,0 +1,15 @@
+
+Medium Challenge (Ongkos Kirim)
+
+Buatlah program perhitungan harga untuk pengiriman barang 
+  dengan memperhatikan dimensi barang (panjang, lebar, tinggi) dan 
+  berat barang. Harga standar untuk dimensi barang minimal 50 cm3 
+  dan berat pembulatan 1 kg adalah Rp. 5.000
+
+Input : 
+	Panjang = 5
+	Lebar = 2
+	Tinggi = 4
+	Berat = 1 kg
+Output :
+	Harga : Rp 5000

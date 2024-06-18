@@ -1,0 +1,19 @@
+Buatlah code dengan pendekatan Object Oriented Programming (OOP)!f
+
+Easy Challenge (Menghitung Volume)
+
+Buatlah sebuah program untuk menghitung volume bangun datar.
+(kubus, balok, tabung). Input angka berada pada fungsi utama
+dan fungsi operasi diletakkan terpisah dengan fungsi utama. 
+
+Input : 
+	Volume 
+	Kubus (10)
+	Balok (3,6,10) 
+	Tabung (7,10) 
+
+Output : 
+	Volume
+	Kubus : 1000
+	Balok : 180
+	Tabung : 1540
